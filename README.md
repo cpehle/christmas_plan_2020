@@ -14,6 +14,12 @@
 - Rinderfilet
 - Karotten
 - Champiogns
+- Cherry Tomaten
+- Paprika
+- Frühlingszwiebeln
+- Oliven
+- Trauben
+- Gorgonzola
 
 ### Buttergebäck
 - 375g Butter
@@ -40,3 +46,9 @@
 - Tannenzapfen
 - Papierketten
 - Lichterketten
+
+
+## Inspiration
+
+
+- Cheeseboard ![](images/cheeseboard.jpg)
