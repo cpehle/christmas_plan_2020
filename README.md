@@ -14,26 +14,23 @@
 - Silberzwiebeln
 - Shrimp
 - Rinderfilet
-- Karotten
 - Champiogns
 - Cherry Tomaten (bunt)
 - Paprika
 - Frühlingszwiebeln
-- Oliven
 - Trauben
 - Gorgonzola
-- Camembert
 - Kiwis
 - Karambola
 - Aubergine
 - Jalapenos
 - Birne
-- Feige 
-- Feta
+- Zuchini
+- Feta []
 - Ziegenkaese
 - Schwarzwaelder Schinken
 - Preiselbeer Marmelade
-
+- Fisch
 
 ### Buttergebäck
 - 375g Butter
@@ -46,6 +43,7 @@
 
 
 ## Drinks
+- Cola Zero
 - Gluehwein
 - Wine (white, red)
 - Whiskey (Thomas)
