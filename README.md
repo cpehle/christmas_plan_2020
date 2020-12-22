@@ -5,21 +5,35 @@
 
 ## Food
 ### Raclette
+- Baguette vorbestellen
+- Wallnussbrot?
 - Feldsalat
 - Mandarinen
-- Kartoffeln (1kg)
+- Kartoffeln (2 kg)
 - Cornichons
 - Silberzwiebeln
 - Shrimp
 - Rinderfilet
 - Karotten
 - Champiogns
-- Cherry Tomaten
+- Cherry Tomaten (bunt)
 - Paprika
 - Frühlingszwiebeln
 - Oliven
 - Trauben
 - Gorgonzola
+- Camembert
+- Kiwis
+- Karambola
+- Aubergine
+- Jalapenos
+- Birne
+- Feige 
+- Feta
+- Ziegenkaese
+- Schwarzwaelder Schinken
+- Preiselbeer Marmelade
+
 
 ### Buttergebäck
 - 375g Butter
@@ -50,5 +64,5 @@
 
 ## Inspiration
 
-
-- Cheeseboard ![](images/cheeseboard.jpg)
+<p>Cheeseboard</p>
+<img src="images/cheeseboard.jpg" width="200" />
