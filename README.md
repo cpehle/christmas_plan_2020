@@ -1,7 +1,6 @@
 # Christmas Plan
 
-
-
+Dinner Start 18:30
 
 ## Food
 ### Raclette
@@ -9,7 +8,7 @@
 - Wallnussbrot?
 - Feldsalat
 - Mandarinen
-- Kartoffeln (2 kg)
+- Kartoffeln (1.5 kg)
 - Cornichons
 - Silberzwiebeln
 - Shrimp
@@ -27,10 +26,14 @@
 - Birne
 - Zuchini
 - Feta []
+- Basilikum
+- Schnittlauch
+- Wallnuesse
 - Ziegenkaese
-- Schwarzwaelder Schinken
+- Schinken
 - Preiselbeer Marmelade
 - Fisch
+- Schaelchen
 
 ### Buttergebäck
 - 375g Butter
